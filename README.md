@@ -1,38 +1,85 @@
 # 👋 Olá! Eu sou o Rodrigo Rocha
 
-🎯 **Profissional multidisciplinar com foco em Planejamento, Análise de Dados e Desenvolvimento de Soluções Tecnológicas.**
-
-Tenho sólida experiência em **Gestão de Manutenção e Facilities**, **Planejamento e Controle de Manutenção (PCM)** e **Operações Aeroportuárias**, além de formação em **Engenharia de Software**. Minha missão é integrar **gestão operacional com tecnologia** para otimizar processos, gerar insights estratégicos e elevar a eficiência nas operações.
-
----
-
-## 💼 Experiência & Habilidades
-
-- 📊 **Data Analytics & BI** com Power BI e Looker Studio – desenvolvimento de dashboards interativos para tomada de decisão em tempo real.
-- 📱 **Desenvolvimento Low/No-Code** com AppSheet e Flutterflow – criação de apps para automação e controle de estoque/OS.
-- ⚙️ **PCM & Facilities** – controle de manutenções corretivas e preventivas, gestão de SLAs e materiais.
-- 🔧 **Automação de Processos** – planilhas inteligentes, bots de envio de relatórios e outras ferramentas para redução de tarefas manuais.
-- 📈 **Análise Operacional** – planejamento estratégico baseado em dados, especialmente no setor aeroportuário.
-- 👨‍💻 Em aprendizado contínuo com foco em **Python**, **JavaScript** e **desenvolvimento de aplicativos com código**.
+🎯 Profissional de Planejamento e Controle de Manutenção (PCM)  
+📊 Analista de Dados Júnior em evolução  
+🚀 Focado em transformar dados operacionais em decisões estratégicas
 
 ---
 
-## 🤝 Buscando Colaborações
+## 💼 Sobre Mim
 
-Procuro contribuir com projetos que envolvam:
-- Gestão de projetos e planejamento estratégico
-- Análise de dados e inteligência operacional
-- Desenvolvimento de soluções digitais para problemas reais
+Atuo na área de **Planejamento e Controle de Manutenção**, com experiência em:
 
----
+- Gestão de chamados corretivos e preventivos  
+- Controle de SLAs  
+- Monitoramento de KPIs operacionais  
+- Gestão de materiais e estoque  
+- Análise de backlog  
 
-## 📫 Como me encontrar
+Paralelamente, venho desenvolvendo minhas habilidades em **Análise de Dados**, aplicando Python e ferramentas de BI para automatizar rotinas e gerar insights estratégicos.
 
-- 📧 **Email**: [rodrigoldarocha@outlook.com](mailto:rodrigoldarocha@outlook.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/rodrigo-rocha-19249170](https://www.linkedin.com/in/rodrigo-rocha-19249170)  
-- 🌐 **Portfólio**: [sites.google.com/view/portfoliodashrodrigorocha](https://sites.google.com/view/portfoliodashrodrigorocha)  
-- 📱 **Telefone/WhatsApp**: +55 81 99887-4834
+Meu diferencial é unir **operação + dados + tecnologia**.
 
 ---
 
-🚀 Estou sempre aberto a novas oportunidades de colaboração e inovação. Vamos conversar?
+## 🛠 Tech Stack
+
+### 📊 Análise de Dados
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat-square&logo=numpy)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat-square&logo=powerbi)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat-square&logo=jupyter)
+![Excel](https://img.shields.io/badge/-Excel%20Avan%C3%A7ado-333333?style=flat-square&logo=microsoft-excel)
+
+### ⚙️ Planejamento e Controle de Manutenção (PCM)
+![SLA](https://img.shields.io/badge/-Gest%C3%A3o%20de%20SLA-333333?style=flat-square)
+![KPIs](https://img.shields.io/badge/-KPIs%20Operacionais-333333?style=flat-square)
+![Backlog](https://img.shields.io/badge/-Gest%C3%A3o%20de%20Backlog-333333?style=flat-square)
+![Manutenção](https://img.shields.io/badge/-Manuten%C3%A7%C3%A3o%20Preventiva%20e%20Corretiva-333333?style=flat-square)
+
+### 🚀 Automação & Ferramentas
+![AppSheet](https://img.shields.io/badge/-AppSheet-333333?style=flat-square)
+![Flutterflow](https://img.shields.io/badge/-Flutterflow-333333?style=flat-square)
+![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-333333?style=flat-square&logo=google)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 📊 Análise STD - Processamento de Dados
+Automação completa de métricas operacionais replicando medidas DAX do Power BI em Python, incluindo:
+- Cálculo de SLA
+- Indicadores de atraso
+- Métricas financeiras
+- Exportação analítica automatizada
+
+---
+
+### 🎧 Análise Exploratória - Spotify
+Projeto de EDA utilizando Python para análise de correlações e padrões em dados musicais.
+
+---
+
+### 🐍 Bootcamp Avanti - Machine Learning
+Projetos voltados para fundamentos de Machine Learning e análise de dados.
+
+---
+
+## 🎯 Atualmente Focado em
+
+- Evoluir tecnicamente como Analista de Dados  
+- Aplicar Python em cenários reais de operação  
+- Automatizar métricas e relatórios  
+- Consolidar transição gradual para área de Dados  
+
+---
+
+## 📫 Conecte-se Comigo
+
+🔗 LinkedIn: https://www.linkedin.com/in/rodrigo-rocha-19249170/
+🔗 Portfólio: https://sites.google.com/view/portfoliodashrodrigorocha  
+
+---
+
+⭐ Sempre aberto a aprender, trocar experiências e desenvolver soluções orientadas a dados.
