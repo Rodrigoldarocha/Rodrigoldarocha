@@ -45,27 +45,6 @@ Meu diferencial é unir **operação + dados + tecnologia**.
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 📊 Análise STD - Processamento de Dados
-Automação completa de métricas operacionais replicando medidas DAX do Power BI em Python, incluindo:
-- Cálculo de SLA
-- Indicadores de atraso
-- Métricas financeiras
-- Exportação analítica automatizada
-
----
-
-### 🎧 Análise Exploratória - Spotify
-Projeto de EDA utilizando Python para análise de correlações e padrões em dados musicais.
-
----
-
-### 🐍 Bootcamp Avanti - Machine Learning
-Projetos voltados para fundamentos de Machine Learning e análise de dados.
-
----
-
 ## 🎯 Atualmente Focado em
 
 - Evoluir tecnicamente como Analista de Dados  
@@ -78,6 +57,7 @@ Projetos voltados para fundamentos de Machine Learning e análise de dados.
 ## 📫 Conecte-se Comigo
 
 🔗 LinkedIn: https://www.linkedin.com/in/rodrigo-rocha-19249170/
+
 🔗 Portfólio: https://sites.google.com/view/portfoliodashrodrigorocha  
 
 ---
